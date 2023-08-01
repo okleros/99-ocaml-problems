@@ -1,6 +1,6 @@
 # 99 OCaml Problems Challenge
 
-![OCaml Logo](https://ocaml.org/_/YTY2ODhjNjU2NzljODk5ODY4ODJmNTAyMDhmOTJhNDM/logo-with-name.svg)
+![OCaml Logo](https://i.imgur.com/DOg4daL.jpeg)
 
 Welcome to my repository for the 99 OCaml Problems Challenge! Here, I'll be tackling a series of interesting and fun OCaml programming exercises to sharpen my problem-solving skills and deepen my understanding of the OCaml programming language.
 
