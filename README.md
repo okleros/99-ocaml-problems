@@ -38,7 +38,7 @@ I'm open to suggestions and improvements! If you find any bugs in my solutions o
 
 The solutions presented here are my personal implementations and may not be the most optimal or idiomatic. The primary goal is to learn and grow as a programmer. If you use these solutions for your own learning, make sure to understand them thoroughly and avoid copying them directly for any academic or professional purposes.
 
-This project was inspired by Tsoding Daily's attempt, please go check him out on (YouTube)[https://www.youtube.com/@TsodingDaily].
+This project was inspired by Tsoding Daily's attempt, please go check him out on [YouTube](https://www.youtube.com/@TsodingDaily).
 
 ## Let's Get Started!
 
