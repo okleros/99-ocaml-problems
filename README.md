@@ -6,6 +6,7 @@ Welcome to my repository for the 99 OCaml Problems Challenge! Here, I'll be tack
 
 ## Progress
 
+- All my progress is being streamed live on [Twitch](https://www.twitch.tv/okleros)
 - Problems Completed: 0/99
 
 ## What is the 99 OCaml Problems Challenge?
