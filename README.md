@@ -4,6 +4,8 @@
 
 Welcome to my repository for the 99 OCaml Problems Challenge! Here, I'll be tackling a series of interesting and fun OCaml programming exercises to sharpen my problem-solving skills and deepen my understanding of the OCaml programming language.
 
+The problems are in [OCaml's official website](https://www.ocaml.org/problems) but I'm using the [Wayback Machine version](https://web.archive.org/web/20190906211154/http://www.ocaml.org/learn/tutorials/99problems.html) from September 2019, since the current version doesn't include problem numbers or difficulty levels.
+
 ## Progress
 
 - All my progress is being streamed live on [Twitch](https://www.twitch.tv/okleros)
