@@ -6,7 +6,7 @@ Welcome to my repository for the 99 OCaml Problems Challenge! Here, I'll be tack
 
 ## Progress
 
-- Problems Completed: 0/99
+- Problems Completed: 8/99
 
 ## What is the 99 OCaml Problems Challenge?
 
