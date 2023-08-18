@@ -25,7 +25,7 @@ let at (k : int) (arr : 'a list) : 'a option =
 	let rec at' (arr1 : 'a list) (counter : int) : 'a option = 
 		match arr1 with
 		| []     -> None
-		| a :: t    -> if counter < k then at' (t) (counter + 1) else Some a
+		| a :: t -> if counter < k then at' (t) (counter + 1) else Some a
 
 	in at' arr 1
 
